@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: rgb(27, 124, 100);
+    font-family: 'Architects Daughter', cursive;
+
+}
+h1{
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+img{
+    display: block;
+    margin: auto;
+    max-width: 60%;
+    margin-top: 30px;
+}
+
+h2{
+    text-align: center;
+}
+
+textarea{
+    width: 80%;
+    height: 20vh;
+    background-color: rgb(162, 224, 206);
+    margin: auto;
+    display: block;
+    padding-bottom: 2rem;
+    border-radius: 0.5rem;
+}
+
+::placeholder{
+    text-align: center;
+    margin-top: 2rem;
+    padding-top: 3rem;
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+button{
+    margin: auto;
+    display: block;
+    margin-top: 3rem;
+    padding: 0.6rem 1rem;
+    border-radius: 0.9rem;
+    background-color: rgb(48, 167, 48);
+    
+}
+h2{
+    margin: 1rem;
+}
+
+h3{
+    padding-top: 0.4rem;
+    padding-bottom: 2rem;
+}
+#output-box{
+    border:1px solid black;
+    width: 80%;
+    height: 20vh;
+    background-color: rgb(162, 224, 206);
+    margin: auto;
+    display: block;
+    padding-bottom: 2rem;
+    border-radius: 0.5rem;
+}
+
+footer{
+    margin: auto;
+    background-color: cornsilk;
+    text-align: center;
+    padding-bottom: 5rem;
+    margin-top: 4rem;
+    
+}
+ul{
+    display: inline;
+    margin-top: 5rem;
+    padding-top: 3rem;
+   
+}
+
+li{
+    display: inline;
+}
+
+a{
+    padding: 2rem;
+}
